@@ -1,0 +1,11 @@
+G:\Peter\Dropbox\Git\Kattis\AlienNumbers\csharp\app\obj\Debug\netcoreapp3.0\app.csprojAssemblyReference.cache
+G:\Peter\Dropbox\Git\Kattis\AlienNumbers\csharp\app\obj\Debug\netcoreapp3.0\app.AssemblyInfoInputs.cache
+G:\Peter\Dropbox\Git\Kattis\AlienNumbers\csharp\app\obj\Debug\netcoreapp3.0\app.AssemblyInfo.cs
+G:\Peter\Dropbox\Git\Kattis\AlienNumbers\csharp\app\bin\Debug\netcoreapp3.0\app.exe
+G:\Peter\Dropbox\Git\Kattis\AlienNumbers\csharp\app\bin\Debug\netcoreapp3.0\app.deps.json
+G:\Peter\Dropbox\Git\Kattis\AlienNumbers\csharp\app\bin\Debug\netcoreapp3.0\app.runtimeconfig.json
+G:\Peter\Dropbox\Git\Kattis\AlienNumbers\csharp\app\bin\Debug\netcoreapp3.0\app.runtimeconfig.dev.json
+G:\Peter\Dropbox\Git\Kattis\AlienNumbers\csharp\app\bin\Debug\netcoreapp3.0\app.dll
+G:\Peter\Dropbox\Git\Kattis\AlienNumbers\csharp\app\bin\Debug\netcoreapp3.0\app.pdb
+G:\Peter\Dropbox\Git\Kattis\AlienNumbers\csharp\app\obj\Debug\netcoreapp3.0\app.dll
+G:\Peter\Dropbox\Git\Kattis\AlienNumbers\csharp\app\obj\Debug\netcoreapp3.0\app.pdb

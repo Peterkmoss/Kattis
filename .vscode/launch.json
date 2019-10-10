@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Filip",
+            "request": "launch",
+            "mainClass": "Filip",
+            "projectName": "Kattis_62d1796f"
+        }
+    ]
+}
