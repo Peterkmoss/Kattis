@@ -1,0 +1,11 @@
+C:\Users\Peter Moss\Dropbox\Git\Kattis\SpeedLimit\csharp\app\bin\Debug\netcoreapp3.0\app.exe
+C:\Users\Peter Moss\Dropbox\Git\Kattis\SpeedLimit\csharp\app\bin\Debug\netcoreapp3.0\app.deps.json
+C:\Users\Peter Moss\Dropbox\Git\Kattis\SpeedLimit\csharp\app\bin\Debug\netcoreapp3.0\app.runtimeconfig.json
+C:\Users\Peter Moss\Dropbox\Git\Kattis\SpeedLimit\csharp\app\bin\Debug\netcoreapp3.0\app.runtimeconfig.dev.json
+C:\Users\Peter Moss\Dropbox\Git\Kattis\SpeedLimit\csharp\app\bin\Debug\netcoreapp3.0\app.dll
+C:\Users\Peter Moss\Dropbox\Git\Kattis\SpeedLimit\csharp\app\bin\Debug\netcoreapp3.0\app.pdb
+C:\Users\Peter Moss\Dropbox\Git\Kattis\SpeedLimit\csharp\app\obj\Debug\netcoreapp3.0\app.csprojAssemblyReference.cache
+C:\Users\Peter Moss\Dropbox\Git\Kattis\SpeedLimit\csharp\app\obj\Debug\netcoreapp3.0\app.AssemblyInfoInputs.cache
+C:\Users\Peter Moss\Dropbox\Git\Kattis\SpeedLimit\csharp\app\obj\Debug\netcoreapp3.0\app.AssemblyInfo.cs
+C:\Users\Peter Moss\Dropbox\Git\Kattis\SpeedLimit\csharp\app\obj\Debug\netcoreapp3.0\app.dll
+C:\Users\Peter Moss\Dropbox\Git\Kattis\SpeedLimit\csharp\app\obj\Debug\netcoreapp3.0\app.pdb
