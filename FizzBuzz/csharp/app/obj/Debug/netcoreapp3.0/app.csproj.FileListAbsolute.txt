@@ -1,0 +1,11 @@
+D:\Peter\Dropbox\Git\Kattis\FizzBuzz\csharp\app\bin\Debug\netcoreapp3.0\app.exe
+D:\Peter\Dropbox\Git\Kattis\FizzBuzz\csharp\app\bin\Debug\netcoreapp3.0\app.deps.json
+D:\Peter\Dropbox\Git\Kattis\FizzBuzz\csharp\app\bin\Debug\netcoreapp3.0\app.runtimeconfig.json
+D:\Peter\Dropbox\Git\Kattis\FizzBuzz\csharp\app\bin\Debug\netcoreapp3.0\app.runtimeconfig.dev.json
+D:\Peter\Dropbox\Git\Kattis\FizzBuzz\csharp\app\bin\Debug\netcoreapp3.0\app.dll
+D:\Peter\Dropbox\Git\Kattis\FizzBuzz\csharp\app\bin\Debug\netcoreapp3.0\app.pdb
+D:\Peter\Dropbox\Git\Kattis\FizzBuzz\csharp\app\obj\Debug\netcoreapp3.0\app.csprojAssemblyReference.cache
+D:\Peter\Dropbox\Git\Kattis\FizzBuzz\csharp\app\obj\Debug\netcoreapp3.0\app.AssemblyInfoInputs.cache
+D:\Peter\Dropbox\Git\Kattis\FizzBuzz\csharp\app\obj\Debug\netcoreapp3.0\app.AssemblyInfo.cs
+D:\Peter\Dropbox\Git\Kattis\FizzBuzz\csharp\app\obj\Debug\netcoreapp3.0\app.dll
+D:\Peter\Dropbox\Git\Kattis\FizzBuzz\csharp\app\obj\Debug\netcoreapp3.0\app.pdb
