@@ -7,43 +7,46 @@ namespace app
     class Program
     {
 
-        private static IDictionary<string, string> dictionary = new Dictionary<string, string>();
+        private static IDictionary<string, string> nDictionary = new Dictionary<string, string>();
+        private static IDictionary<string, string> eDictionary = new Dictionary<string, string>();
+        private static IList<string> nList = new List<string>();
+        private static IList<string> eList = new List<string>();
 
         static void Main(string[] args)
         {
             var testCases = int.Parse(Console.ReadLine());
             for (var i = 0; i < testCases; i++)
             {
-                parseMenu(dictionary);
+                parseMenu();
+
+                nList = nList.OrderBy(i => i).ToList();
+                eList = eList.OrderBy(i => i).ToList();
 
                 Console.WriteLine();
             }
         }
 
-        static void parseMenu(IDictionary<string, string> dictionary)
+        static void parseMenu()
         {
             var pizzas = int.Parse(Console.ReadLine());
             for (var i = 0; i < pizzas; i++)
             {
-                parsePizza(dictionary);
-            }
-        }
-
-        static void parsePizza(IDictionary<string, string> dictionary)
-        {
-            var pizza = Console.ReadLine();
-            var native = Console.ReadLine().Split(" ");
-            var english = Console.ReadLine().Split(" ");
-
-            for (var i = 1; i <= Math.Max(int.Parse(native[0]), int.Parse(native[0])); i++)
-            {
-                if (i <= english.Length)
+                var pizza = Console.ReadLine();
+                var native = Console.ReadLine().Split(" ");
+                var english = Console.ReadLine().Split(" ");
+                for (var j = 1; j <= native.Length; j++)
                 {
-                    dictionary.Add(pizza, english[i]);
+                    var ingr = native[j];
+                    if (!nList.Contains(ingr))
+                        nList.Add(ingr);
+                    nDictionary.Add(ingr, nDictionary[ingr] ?? "" + pizza);
                 }
-                if (i <= native.Length)
+                for (var j = 1; j <= english.Length; j++)
                 {
-                    dictionary.Add(pizza, native[i]);
+                    var ingr = english[j];
+                    if (!eList.Contains(ingr))
+                        eList.Add(ingr);
+                    eDictionary.Add(ingr, eDictionary[ingr] ?? "" + pizza);
                 }
             }
         }
