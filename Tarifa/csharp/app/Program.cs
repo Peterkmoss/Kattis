@@ -11,10 +11,7 @@ namespace app
             var res = mbMontly;
             for (var i = 0; i < months; i++)
             {
-                var line = Console.ReadLine();
-                if (string.IsNullOrEmpty(line))
-                    break;
-                var used = int.Parse(line);
+                var used = int.Parse(Console.ReadLine());
                 res += mbMontly - used;
             }
             Console.WriteLine(res);

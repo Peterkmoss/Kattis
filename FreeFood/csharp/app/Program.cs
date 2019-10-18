@@ -9,7 +9,6 @@ namespace app
         {
             var events = int.Parse(Console.ReadLine());
             var days = new HashSet<int>();
-            var latest = 0;
             for (var i = 0; i < events; i++)
             {
                 var e = Console.ReadLine().Split(" ");
