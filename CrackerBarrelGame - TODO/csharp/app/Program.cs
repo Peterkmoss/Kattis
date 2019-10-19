@@ -9,7 +9,7 @@ namespace app
     {
         static void Main(string[] args)
         {
-            var exp = @"\S[2]";
+            //var exp = @"\S[2]";
             var targetPin = ReadLine().Trim();
             var first = ReadLine().ToCharArray();
             var second = ReadLine().ToCharArray();
