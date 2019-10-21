@@ -21,6 +21,7 @@ namespace app
                 var y = v_0 * time * Math.Sin(angle) - (0.5 * 9.81 * Math.Pow(time, 2));
                 if (y > h_1 + 1 && y < h_2 - 1) WriteLine("Safe");
                 else WriteLine("Not Safe");
+
             }
         }
     }
