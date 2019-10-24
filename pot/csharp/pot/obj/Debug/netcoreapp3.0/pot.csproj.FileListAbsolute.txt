@@ -1,0 +1,11 @@
+/home/peter/Dropbox/Git/Kattis/pot/csharp/pot/bin/Debug/netcoreapp3.0/pot
+/home/peter/Dropbox/Git/Kattis/pot/csharp/pot/bin/Debug/netcoreapp3.0/pot.deps.json
+/home/peter/Dropbox/Git/Kattis/pot/csharp/pot/bin/Debug/netcoreapp3.0/pot.runtimeconfig.json
+/home/peter/Dropbox/Git/Kattis/pot/csharp/pot/bin/Debug/netcoreapp3.0/pot.runtimeconfig.dev.json
+/home/peter/Dropbox/Git/Kattis/pot/csharp/pot/bin/Debug/netcoreapp3.0/pot.dll
+/home/peter/Dropbox/Git/Kattis/pot/csharp/pot/bin/Debug/netcoreapp3.0/pot.pdb
+/home/peter/Dropbox/Git/Kattis/pot/csharp/pot/obj/Debug/netcoreapp3.0/pot.csprojAssemblyReference.cache
+/home/peter/Dropbox/Git/Kattis/pot/csharp/pot/obj/Debug/netcoreapp3.0/pot.AssemblyInfoInputs.cache
+/home/peter/Dropbox/Git/Kattis/pot/csharp/pot/obj/Debug/netcoreapp3.0/pot.AssemblyInfo.cs
+/home/peter/Dropbox/Git/Kattis/pot/csharp/pot/obj/Debug/netcoreapp3.0/pot.dll
+/home/peter/Dropbox/Git/Kattis/pot/csharp/pot/obj/Debug/netcoreapp3.0/pot.pdb
