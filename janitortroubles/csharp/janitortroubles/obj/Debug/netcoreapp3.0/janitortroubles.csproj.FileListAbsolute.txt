@@ -1,0 +1,11 @@
+/home/peter/Dropbox/Git/Kattis/janitortroubles/csharp/janitortroubles/bin/Debug/netcoreapp3.0/janitortroubles
+/home/peter/Dropbox/Git/Kattis/janitortroubles/csharp/janitortroubles/bin/Debug/netcoreapp3.0/janitortroubles.deps.json
+/home/peter/Dropbox/Git/Kattis/janitortroubles/csharp/janitortroubles/bin/Debug/netcoreapp3.0/janitortroubles.runtimeconfig.json
+/home/peter/Dropbox/Git/Kattis/janitortroubles/csharp/janitortroubles/bin/Debug/netcoreapp3.0/janitortroubles.runtimeconfig.dev.json
+/home/peter/Dropbox/Git/Kattis/janitortroubles/csharp/janitortroubles/bin/Debug/netcoreapp3.0/janitortroubles.dll
+/home/peter/Dropbox/Git/Kattis/janitortroubles/csharp/janitortroubles/bin/Debug/netcoreapp3.0/janitortroubles.pdb
+/home/peter/Dropbox/Git/Kattis/janitortroubles/csharp/janitortroubles/obj/Debug/netcoreapp3.0/janitortroubles.csprojAssemblyReference.cache
+/home/peter/Dropbox/Git/Kattis/janitortroubles/csharp/janitortroubles/obj/Debug/netcoreapp3.0/janitortroubles.AssemblyInfoInputs.cache
+/home/peter/Dropbox/Git/Kattis/janitortroubles/csharp/janitortroubles/obj/Debug/netcoreapp3.0/janitortroubles.AssemblyInfo.cs
+/home/peter/Dropbox/Git/Kattis/janitortroubles/csharp/janitortroubles/obj/Debug/netcoreapp3.0/janitortroubles.dll
+/home/peter/Dropbox/Git/Kattis/janitortroubles/csharp/janitortroubles/obj/Debug/netcoreapp3.0/janitortroubles.pdb
